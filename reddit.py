@@ -61,6 +61,6 @@ while index < len(reddit_links):
         break
 
 if index == len(reddit_links):
-    print("🎉 所有链接都看完啦！")
+    print("🎉 所有链接都done!")
 
 driver.quit()
